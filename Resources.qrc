@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>build-Bloc_de_Notas-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Icons/Copy.bmp</file>
+        <file>build-Bloc_de_Notas-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Icons/Cut.bmp</file>
+        <file>build-Bloc_de_Notas-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Icons/DeleteSticky.bmp</file>
+        <file>build-Bloc_de_Notas-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Icons/New.bmp</file>
+        <file>build-Bloc_de_Notas-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Icons/Open.bmp</file>
+        <file>build-Bloc_de_Notas-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Icons/Paste.bmp</file>
+        <file>build-Bloc_de_Notas-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Icons/Save.bmp</file>
+    </qresource>
+</RCC>
